@@ -24,8 +24,8 @@
 #include "MyInfluxDB.h"
 
 //WLAN Zugang
-const char* ssid = "NoFreeWiFi";
-const char* password = "57655658286507878869";
+const char* ssid = "ssid";
+const char* password = "123456789";
 
 Gps gps;
 Beschleunigung beschleunigung;
